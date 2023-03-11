@@ -7,5 +7,6 @@ int main (int argc, char *argv[]) {
     sum += i;
   }
   printf("\\sum_{i=1}^{ %ld } i = %ld\n", n, sum);
+  prinf("hello world");
   return EXIT_SUCCESS;
 }
